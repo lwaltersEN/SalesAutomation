@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NPW SA Test Cases">
+	<test name="NPW SA">
+		<classes>
+			<class name="com.npw.testscripts.ra.TC_07_captureSuccessfulRAApplication"></class>
+		</classes>
+	</test>
+</suite> 

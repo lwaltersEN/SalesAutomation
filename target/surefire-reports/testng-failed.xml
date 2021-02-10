@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NPW SA Test Cases]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="NPW SA(failed)">
+    <classes>
+      <class name="com.npw.testscripts.ra.TC_07_captureSuccessfulRAApplication">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="captureSuccessfulApplication"/>
+        </methods>
+      </class> <!-- com.npw.testscripts.ra.TC_07_captureSuccessfulRAApplication -->
+    </classes>
+  </test> <!-- NPW SA(failed) -->
+</suite> <!-- Failed suite [NPW SA Test Cases] -->

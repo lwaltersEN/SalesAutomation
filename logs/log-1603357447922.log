@@ -1,0 +1,10 @@
+2020-10-22 11:04:07 INFO  Browser:88 - The application has been invoked successfully in Google Chrome with URL:https://new-public-web-sal3-qa.nonprod.digitalplatform.oldmutual.co.za/retirement-annuity/show-benefits
+2020-10-22 11:04:11 INFO  Browser:158 - Chrome browser is opened successfully
+2020-10-22 11:04:38 WARN  Wait:61 - element By.xpath: //*[@for='age'] is not present after waiting 20 secs.
+2020-10-22 11:04:38 WARN  Elements:106 - The text 22 could not be entered successfully
+2020-10-22 11:04:38 WARN  Browser:447 - The current browser could not be closed due to invalid session id
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-T2OGFB2', ip: '192.168.18.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Lyle\AppData\Local\Temp\scoped_dir21592_1115677196}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:62726}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 259cca7a09575cbb6e193602d36e609d

@@ -1,0 +1,4 @@
+2020-10-22 11:06:06 INFO  Browser:88 - The application has been invoked successfully in Google Chrome with URL:https://new-public-web-sal3-qa.nonprod.digitalplatform.oldmutual.co.za/retirement-annuity/show-benefits
+2020-10-22 11:06:09 INFO  Browser:158 - Chrome browser is opened successfully
+2020-10-22 11:06:36 WARN  Wait:61 - element By.xpath: //*[@for='age'] is not present after waiting 20 secs.
+2020-10-22 11:06:36 WARN  Elements:106 - The text 22 could not be entered successfully

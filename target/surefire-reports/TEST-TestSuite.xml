@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="1" name="TestSuite" time="31.536" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.5+10-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Entelect Work\Automation Project\NewPublicWebAutomation-master"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ZA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Entelect Work\Automation Project\NewPublicWebAutomation-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.5+10-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Lyle\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\e\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf906386040223334361.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_231/bin/server;C:/Program Files/Java/jre1.8.0_231/bin;C:/Program Files/Java/jre1.8.0_231/lib/amd64;c:\program files (x86)\intel\intel(r) management engine components\icls\;c:\program files\intel\intel(r) management engine components\icls\;c:\program files (x86)\common files\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\nvidia corporation\nvidia nvdlisr;c:\program files (x86)\intel\intel(r) management engine components\dal;c:\program files\intel\intel(r) management engine components\dal;c:\program files (x86)\intel\intel(r) management engine components\ipt;c:\program files\intel\intel(r) management engine components\ipt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\nodejs\;C:\Users\Lyle\AppData\Local\Android\Sdk\tools\bin;C:\Users\Lyle\AppData\Local\Android\Sdk\tools;C:\Program Files\Java\jdk-13.0.2\bin;C:\Program Files\Amazon Corretto\jdk11.0.5_10\bin;C:\Program Files (x86)\Brackets\command;C:\Users\Lyle\AppData\Local\Android\Sdk\tools\bin;C:\Users\Lyle\AppData\Local\Android\Sdk\tools;C:\Program Files (x86)\Java\jre1.8.0_231\bin;C:\Users\Lyle\AppData\Local\Android\Sdk\platform-tools;C:\Users\Lyle\AppData\Local\Microsoft\WindowsApps;C:\Users\Lyle\AppData\Roaming\npm;C:\Program Files (x86)\Mvn\apache-maven-3.6.3\bin;C:\Users\Lyle\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Lyle\AppData\Local\GitHubDesktop\bin;C:\Windows\System32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Lyle"/>
+    <property name="user.timezone" value="Africa/Harare"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Lyle"/>
+    <property name="java.class.path" value="C:\Users\Lyle\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.5"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="maven.home" value="D:\Entelect Work\Automation Project\NewPublicWebAutomation-master\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Corretto-11.0.5.10.1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.npw.testscripts.ra.TC_07_captureSuccessfulRAApplication" name="captureSuccessfulApplication on [TC_07_captureSuccessfulRAApplication passed=0 failed=0 skipped=0]" time="31.536">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at com.om.framework.reporting.Reporting.addOrUpdateFunctionalityNode(Reporting.java:266)
+	at com.om.framework.reporting.Reporting.logResults(Reporting.java:87)
+	at com.npw.testscripts.ra.TC_07_captureSuccessfulRAApplication.captureSuccessfulApplication(TC_07_captureSuccessfulRAApplication.java:43)
+</failure>
+    <system-out>&gt; sPassword parameter set to: Password1$
+2020-10-22 12:20:39 INFO  Browser:88 - The application has been invoked successfully in Google Chrome with URL:https://new-public-web-sal3-qa.nonprod.digitalplatform.oldmutual.co.za/retirement-annuity/show-benefits
+2020-10-22 12:20:43 INFO  Browser:158 - Chrome browser is opened successfully
+Chrome browser is opened successfully
+HeaderMenu
+Personal
+SubHeaderMenu
+Our Solutions
+AppName
+Retirement Plans
+selectRaPlan
+retirement-annuity/starter
+Title
+Mr
+FirstName
+Lyle
+MiddleNames
+
+LastName
+Tester
+Email
+lyle@tester.com
+CellPhone
+0674548961
+Age
+22
+RetirementAge
+60
+MonthlyContribution
+2500
+InvestmentType
+No increase
+Percentage
+
+InvestorType
+Comfortable investor
+MaritialStatus
+Single
+CountryOfBirth
+South Africa
+Nationality
+South Africa
+SouthAfricanID
+9801015800081
+IncomeTaxNumber
+
+ComplexBuilding
+
+StreetName
+1 Test Street
+Suburb
+Testing
+City
+Cape Town
+PostalCode
+1111
+PostalAddressTheSame
+Yes
+PreferredPostalMethod
+
+ComplexBuilding2
+
+StreetName2
+
+Suburb2
+
+City2
+
+POBox
+
+PrivateBagNumber
+
+PostOffice
+
+PostalCode2
+
+BenficiariesTitle1
+Mr
+BenficiariesFirstName1
+Jon
+BenficiariesSurname1
+Cena
+BenficiariesDateOfBirth1
+01/01/2020
+BenficiariesGender1
+Male
+BenficiariesMobileNumber1
+0745569887
+BenficiariesEmail1
+
+BenficiariesTitle2
+Mr
+BenficiariesFirstName2
+Jon
+BenficiariesSurname2
+Cena
+BenficiariesDateOfBirth2
+01/01/2020
+BenficiariesGender2
+Male
+BenficiariesMobileNumber2
+0745569887
+BenficiariesEmail2
+
+BenficiariesTitle3
+
+BenficiariesFirstName3
+
+BenficiariesSurname3
+
+BenficiariesDateOfBirth3
+
+BenficiariesGender3
+
+BenficiariesMobileNumber3
+
+BenficiariesEmail3
+
+BenficiariesTitle4
+
+BenficiariesFirstName4
+
+BenficiariesSurname4
+
+BenficiariesDateOfBirth4
+
+BenficiariesGender4
+
+BenficiariesMobileNumber4
+
+BenficiariesEmail4
+
+BenficiariesTitle5
+
+BenficiariesFirstName5
+
+BenficiariesSurname5
+
+BenficiariesDateOfBirth5
+
+BenficiariesGender5
+
+BenficiariesMobileNumber5
+
+BenficiariesEmail5
+
+BenficiariesTitle6
+
+BenficiariesFirstName6
+
+BenficiariesSurname6
+
+BenficiariesDateOfBirth6
+
+BenficiariesGender6
+
+BenficiariesMobileNumber6
+
+BenficiariesEmail6
+
+BenficiariesTitle7
+
+BenficiariesFirstName7
+
+BenficiariesSurname7
+
+BenficiariesDateOfBirth7
+
+BenficiariesGender7
+
+BenficiariesMobileNumber7
+
+BenficiariesEmail7
+
+BenficiariesTitle8
+
+BenficiariesFirstName8
+
+BenficiariesSurname8
+
+BenficiariesDateOfBirth8
+
+BenficiariesGender8
+
+BenficiariesMobileNumber8
+
+BenficiariesEmail8
+
+BenficiariesTitle9
+
+BenficiariesFirstName9
+
+BenficiariesSurname9
+
+BenficiariesDateOfBirth9
+
+BenficiariesGender9
+
+BenficiariesMobileNumber9
+
+BenficiariesEmail9
+
+BenficiariesTitle10
+
+BenficiariesFirstName10
+
+BenficiariesSurname10
+
+BenficiariesDateOfBirth10
+
+BenficiariesGender10
+
+BenficiariesMobileNumber10
+
+BenficiariesEmail10
+
+EvenSplit
+Yes
+BenficiariesPercentage1
+
+BenficiariesPercentage2
+
+BenficiariesPercentage3
+
+BenficiariesPercentage4
+
+BenficiariesPercentage5
+
+BenficiariesPercentage6
+
+BenficiariesPercentage7
+
+BenficiariesPercentage8
+
+BenficiariesPercentage9
+
+BenficiariesPercentage10
+
+BankName
+ABSA
+AccountNumber
+9800809809
+AccountType
+Savings
+DayOfDebitOrder
+1
+StartMonth
+
+SourceOfIncome
+Annuity Payment
+SourceOfFunds
+Commission
+EmploymentPosition
+Senior Management
+NatureOfBusiness
+Construction and Infrastructure
+2020-10-22 12:20:50 INFO  Wait:55 - element By.xpath: //strong[text()=&apos;Optimal Retirement Annuity Application&apos;] is visible after waiting.
+2020-10-22 12:20:50 INFO  Wait:55 - element By.xpath: //span[contains(text(),&apos;ready to start&apos;)] is visible after waiting.
+2020-10-22 12:20:50 INFO  Elements:206 - The element By.xpath: //span[contains(text(),&apos;ready to start&apos;)] has been clicked successfully
+2020-10-22 12:20:50 INFO  Wait:55 - element By.xpath: //strong[text()=&apos;Optimal Retirement Annuity Application&apos;] is visible after waiting.
+2020-10-22 12:20:51 INFO  Wait:55 - element By.xpath: //*[@for=&apos;age&apos;] is visible after waiting.
+2020-10-22 12:20:51 INFO  Elements:103 - The text 22 has been inputted successfully.
+2020-10-22 12:21:21 WARN  Wait:61 - element By.xpath: //select//option[contains(text(),&apos;60&apos;)]//..//..//..//div[@class=&apos;om-dropdown-field&apos;] is not present after waiting 20 secs.
+2020-10-22 12:21:21 WARN  Elements:209 - The element By.xpath: //select//option[contains(text(),&apos;60&apos;)]//..//..//..//div[@class=&apos;om-dropdown-field&apos;] cannot be clicked due to: Expected condition failed: waiting for visibility of element located by By.xpath: //select//option[contains(text(),&apos;60&apos;)]//..//..//..//div[@class=&apos;om-dropdown-field&apos;] (tried for 20 second(s) with 500 MILLISECONDS interval)
+java.io.FileNotFoundException: D:\Entelect%20Work\Automation%20Project\NewPublicWebAutomation-master\logs\ResultFile10-22-2020122121.xml (The system cannot find the path specified)
+</system-out>
+    <system-err>SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 20279
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 22, 2020 12:20:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+</system-err>
+  </testcase>
+</testsuite>

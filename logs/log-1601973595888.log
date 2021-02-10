@@ -1,0 +1,36 @@
+2020-10-06 10:39:55 INFO  Browser:88 - The application has been invoked successfully in Google Chrome with URL:https://new-public-web-sal3-qa.nonprod.digitalplatform.oldmutual.co.za/retirement-annuity/show-benefits
+2020-10-06 10:40:10 WARN  Browser:166 - session not created
+from chrome not reachable
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-T2OGFB2', ip: '192.168.18.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00CDD383+3134339]
+	Ordinal0 [0x00BCA171+2007409]
+	Ordinal0 [0x00A6AD90+568720]
+	Ordinal0 [0x00A61364+529252]
+	Ordinal0 [0x00A619FC+530940]
+	Ordinal0 [0x00A62C15+535573]
+	Ordinal0 [0x00A5DFC5+516037]
+	Ordinal0 [0x00A6BF70+573296]
+	Ordinal0 [0x00A11916+203030]
+	Ordinal0 [0x00A10C1D+199709]
+	Ordinal0 [0x00A0EB0B+191243]
+	Ordinal0 [0x009F2E77+77431]
+	Ordinal0 [0x009F3E3E+81470]
+	Ordinal0 [0x009F3DC9+81353]
+	Ordinal0 [0x00BE0CD9+2100441]
+	GetHandleVerifier [0x00E4B75A+1396954]
+	GetHandleVerifier [0x00E4B3D9+1396057]
+	GetHandleVerifier [0x00E57126+1444518]
+	GetHandleVerifier [0x00E4BCE8+1398376]
+	Ordinal0 [0x00BD7F51+2064209]
+	Ordinal0 [0x00BE22EB+2106091]
+	Ordinal0 [0x00BE2411+2106385]
+	Ordinal0 [0x00BF49C4+2181572]
+	BaseThreadInitThunk [0x76166359+25]
+	RtlGetAppContainerNamedObjectPath [0x76EE7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x76EE7BF4+180]
+
+2020-10-06 10:40:10 WARN  Wait:61 - element By.xpath: //strong[text()='Optimal Retirement Annuity Application'] is not present after waiting 20 secs.

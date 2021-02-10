@@ -1,0 +1,14 @@
+2020-10-06 11:00:53 INFO  Browser:88 - The application has been invoked successfully in Google Chrome with URL:https://new-public-web-sal3-qa.nonprod.digitalplatform.oldmutual.co.za/retirement-annuity/show-benefits
+2020-10-06 11:00:56 INFO  Browser:158 - Chrome browser is opened successfully
+2020-10-06 11:01:08 INFO  Wait:55 - element By.xpath: //strong[text()='Optimal Retirement Annuity Application'] is visible after waiting.
+2020-10-06 11:01:08 INFO  Wait:55 - element By.xpath: //span[contains(text(),'ready to start')] is visible after waiting.
+2020-10-06 11:01:08 INFO  Elements:206 - The element By.xpath: //span[contains(text(),'ready to start')] has been clicked successfully
+2020-10-06 11:01:08 INFO  Wait:55 - element By.xpath: //strong[text()='Optimal Retirement Annuity Application'] is visible after waiting.
+2020-10-06 11:01:38 WARN  Wait:61 - element By.xpath: //input[((@type='text') and (preceding-sibling::span[text()='First name'] or @placeholder='First name')) or ancestor::om-input-field[contains(@preset,'First name') or contains(@placeholder,'First name')]] is not present after waiting 20 secs.
+2020-10-06 11:01:38 WARN  Elements:106 - The text Lyle could not be entered successfully
+2020-10-06 11:01:38 WARN  Browser:447 - The current browser could not be closed due to invalid session id
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-T2OGFB2', ip: '192.168.18.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\Lyle\AppData\Local\Temp\scoped_dir3024_176083296}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:63564}, acceptInsecureCerts=false, browserVersion=85.0.4183.121, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: acdbba6dc1d458864b8ce42b0adf5ff8
